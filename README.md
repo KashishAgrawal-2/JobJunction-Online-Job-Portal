@@ -16,4 +16,4 @@ JobJunction is a comprehensive online job portal designed to bridge the gap betw
 - **Other Tools:** Git
 
 ## User Interfaces
-  ![Job Portal Screenshot](https://example.com/path-to-your-image.png)
+  ![Job Portal Screenshot](Home Page.png)
